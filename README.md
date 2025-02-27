@@ -2,8 +2,8 @@
 
 > ## Alunos
 
-Eduardo Nogueira Alves - 201921250032
-João Victor Farias - 
+> ### Eduardo Nogueira Alves - 201921250032
+> ### João Victor Farias - 
 
 ## Descrição da atividade
 
