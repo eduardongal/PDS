@@ -2,8 +2,11 @@
 
 > ## Alunos
 
- #### Eduardo Nogueira Alves - 201921250032
- #### João Victor Farias - 
+**Nome:** Eduardo Nogueira Alves
+**Matricula:** 201921250032  
+
+**Nome:** João Victor Farias 
+**Matricula:**
 
 ## Descrição da atividade
 
