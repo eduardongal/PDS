@@ -1,14 +1,12 @@
 # Estudo Dirigido - Processamento Digital de Sinais
 
-> ## Alunos
+## Alunos
 
 **Nome:** Eduardo Nogueira Alves
-
 **Matricula:** 201921250032  
 
 
 **Nome:** João Victor Farias 
-
 **Matricula:**
 
 ## Descrição da atividade
