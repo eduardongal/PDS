@@ -6,7 +6,7 @@
 **Matricula:** 201921250032   
 
 **Nome:** João Victor Farias   
-**Matricula:**  
+**Matricula:** 201911250016    
 
 ## Descrição da atividade
 
@@ -53,4 +53,7 @@
 
 1. [Notebook/Colab](https://colab.research.google.com/drive/1lpEdEZB9sfYMWWmykdxN1zS55xPr5MlF#scrollTo=kPJEQbjejpML)
 2. [Simulações](https://colab.research.google.com/drive/19E-CGavl-dCJ8poaoaXj8FtGqLbJvxXq#scrollTo=jNgGcPuykTXS)
-3. [Vídeos] -
+3. [Vídeos (SISTEMA DE TELECOMUNICAÇÕES - INTRODUÇÃO À MODULAÇÃO PCM)](https://www.youtube.com/watch?v=VLdl8O3qVRM)
+4. [Vídeos (ADPCM- ECE23 M04)](https://www.youtube.com/watch?v=Dp2drtT9h3U)
+5. [Vídeos (PCOM_S04_V03 - Amostragem e Conversão A/D (DPCM e Modulação Delta))](https://www.youtube.com/watch?v=0nNAl4VDUoI)
+6. [Vídeos (DTMF - Dual Tone Multi-Frequency Open Source Project.)](https://www.youtube.com/watch?v=xJoHayakEMU)
